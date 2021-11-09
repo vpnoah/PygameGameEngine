@@ -1,0 +1,7 @@
+3
+question.png
+You stepped on a question block
+polarbear2.png
+Roar
+exclaim.png
+You can't step here

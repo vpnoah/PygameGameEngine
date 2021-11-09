@@ -1,0 +1,13 @@
+0 - iceblock
+1 - waterblock
+2 - polarbear
+3 - adventure penguin
+4 - business penguin
+5 - cool penguin
+6 - ghost penguin
+7 - orange penguin
+8 - appleblock
+9 - hatblock
+a - keyblock
+b - mapblock
+c - sodablock

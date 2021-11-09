@@ -1,0 +1,23 @@
+5
+adventurepenguin.png
+I lost my map!
+Map
+Thank you!
+businesspeng.png
+Hey, I lost my key
+Key
+Yayyyyyy!
+coolpengui.png
+I lost my soda, can you find it for me
+Soda
+Wow, thanks
+ghostpenguin.png
+I've seen to lost my hat 
+Hat
+Now my head can stay warm 
+orangepengiun.png
+I lost my apple
+Apple
+Thank you
+end of file
+
